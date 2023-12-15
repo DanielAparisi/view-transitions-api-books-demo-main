@@ -3,7 +3,7 @@ export const books = [
       id: 'Almacenaje',
       title: 'Proceso de almacenaje',
       img:'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mercadona_em_Canidelo.jpg/330px-Mercadona_em_Canidelo.jpg',
-      opinion: 'Un clásico entre los clásicos del mundo de la programación. Aunque en pleno 2023 yo tengo una opinión un poco polémica. No me parece un libro que recomendaría a todo el mundo, especialmente a aquellas personas que están aprendiendo. Además, tiene un tono muy dogmático y existe gente que se lo toma, peligrosamente, como la biblia del desarrollo. Pero si eres capaz de leerlo tomando perspectiva, hay cosas interesantes que todavía están vigentes. Ojo que todos los ejemplos de código están basados en Java y mucha programación orientada a objetos.',
+      opinion: 'El proceso de almacenaje se refiere a las actividades y prácticas involucradas en la gestión eficiente y efectiva de los productos y materiales en un almacén o centro de distribución. Este proceso abarca desde la recepción de mercancías hasta su almacenamiento, seguimiento y eventual distribución. En el caso de Mercadona Primero verifican todos los productos que llegan de los provedores , despues inspeccionan la calidad y la cantidad de la mercancia y para terminar registran la informacion en sistemas de gestion del inventario',
       author: 'Daniel Aparisi',
   },
   {
@@ -24,7 +24,7 @@ export const books = [
       id: 'Control',
       title: 'Proceso de Control de los productos',
       img:'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mercadona_em_Canidelo.jpg/330px-Mercadona_em_Canidelo.jpg',
-      opinion: 'En cuanto a la gestion de sus recursos, Mercadona utiliza un sistema ERP (',
+      opinion: 'En cuanto a la gestion de sus recursos, Mercadona utiliza un sistema ERP (Enterprise Resource Plannig) propio, denominado MODELO. Este sistema de integracion integral le permite tener un control exhaustivo de todas las areas de la empresa, desde la gestion de de la cadena de suministro hasta la gestion de la informacion financiera y contable . Segun la propia empresa, MODELO es un sistema de gestion integral que se adapta a las necesidades especificas de Mercadona y que le permite optimizar sus procesos y recursos para ofrecer un servicio excelente a sus clientes. Ademas su sistema de gestion integral Modelo le permite tener un control exhautivo de todas las areas de la empresa y ofrecer un servicio excelente a sus clientes           ',
       author: 'Sergio Rodriguez',
   },
 
